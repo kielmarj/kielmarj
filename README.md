@@ -13,5 +13,5 @@ Sincerely,<br>
 Jess.
 
 ---
-
+<br>
 <p align="center"><a href="https://www.buymeacoffee.com/kielmarj" target="_blank"><img src="buymeacoffee.png" alt="Buy me some groceries" style="height: 60px !important;width: 240px !important;" ></a></p>
